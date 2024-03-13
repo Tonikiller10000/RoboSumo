@@ -27,7 +27,7 @@ Schematic:
 
 ### How it works:
 The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery trouth an 5V voltage regulator. 6 digital pins are used for the TB6612FNG motor driver witch is powered dirrectly from the battery to give more power to the motors. The reset pin has a 10K pullup resistor witch is pulled down by the reset button when it is pressed. The UART and ICSP pins wore pulled out to program the code and the bootloader of the IC.
-For now I will try to use the VL53L0x I2C distance sensor, because [other sensors](https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/s1.png) are a little to slow.
+For now I will try to use the [VL53L0x](https://github.com/Tonikiller10000/VL53L0x_DistanceSensor) I2C distance sensor, because [other sensors](https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/s1.png) are a little to slow.
 
 
 ### Programming:
