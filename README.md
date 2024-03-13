@@ -2,10 +2,7 @@
 
 ## Description:
 
-<table>
-  <tr>
-    <td>
-    This is a SUMO robot for comperitions. It pushes the opponent\`s robot out of the ring.
+This is a SUMO robot for comperitions. It pushes the opponent\`s robot out of the ring.
     
 It uses:
 - ATmega328p-AU as an microcontroller(used in arduino uno);
@@ -15,12 +12,7 @@ It uses:
 - LI-PO battery (7.2V)
 - 2x DC motors with low torque high speed gear box
 - robot suport (Wood, 3d printed or any low weight matherial)
-    </td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w4.jpg" height = 400 width= 300 ></td>
-  </tr>
-</table>
 
- ## LineFollower V5.0
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png"  height = 220 width= 250 ></td>
@@ -28,6 +20,23 @@ It uses:
     <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png"  height = 220 width= 250 ></td>
   </tr>
 </table>
+
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p2.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p3.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p4.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r3.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r5.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/s1.png" >
+
+
+
+
+
 
 
 ### How it works:
