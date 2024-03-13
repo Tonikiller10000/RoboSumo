@@ -15,8 +15,8 @@ It uses:
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png"  ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png"  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png" height = 450  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png" height = 450  ></td>
   </tr>
 </table>
 
@@ -33,6 +33,12 @@ For now I will try to use the VL53L0x I2C distance sensor, because [other sensor
 Programming of the robot is done via UART protocoll with an [FTDI](https://github.com/Tonikiller10000/CH340G-FTDI-PROGRAMER) programming board. The code for the RoboSumo is not ready. 
  
 ### Design and mentions
+
+This is The model I followed and some tips:
+- to reach better torque on the wheels, it should be wider. 
+- to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
+- the case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
+
 <table>
   <tr>
     <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.jpg"  height = 250 ></td>
@@ -40,11 +46,6 @@ Programming of the robot is done via UART protocoll with an [FTDI](https://githu
     <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg"  height = 250 ></td>
   </tr>
 </table>
-
-This is The model I followed and some tips:
-- to reach better torque on the wheels, it should be wider. 
-- to mount the motors use molderd plastic motor holders, or be carefull when printing [it](https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/w1.jpg). 
-- the case was made with autodesk fusion 360 at the 3d printer and with some M3 screws.
 
 The next version will have the motor driver soldered on the board and motors screwed dirrectly to it as the suport. Also I will try to make a smaller version
 
