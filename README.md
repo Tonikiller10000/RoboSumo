@@ -24,14 +24,13 @@ It uses:
 <img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png" >
 <img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p2.png" >
 <img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p3.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p4.png" >
 <img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r3.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r5.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/s1.png" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.jpg" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.jpg" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r3.jpg" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg" >
+<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r5.jpg" >
+
 
 
 
@@ -41,6 +40,7 @@ It uses:
 
 ### How it works:
 The board is like a custom arduino UNO board powered from an 7.2V Li-Po battery trouth an 5V voltage regulator. 6 digital pins are used for the TB6612FNG motor driver witch is powered dirrectly from the battery to give more power to the motors. The reset pin has a 10K pullup resistor witch is pulled down by the reset button when it is pressed. The UART and ICSP pins wore pulled out to program the code and the bootloader of the IC.
+For now I will try to use the VL53L0x I2C distance sensor, because [other sensors](https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/s1.png) are a little to slow.
 
 
 ### Programming:
