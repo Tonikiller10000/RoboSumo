@@ -15,9 +15,8 @@ It uses:
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png"  height = 300  ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png"  height = 300  ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p2.png"  height = 300  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png"  ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png"  ></td>
   </tr>
 </table>
 
@@ -36,9 +35,9 @@ Programming of the robot is done via UART protocoll with an [FTDI](https://githu
 ### Design and mentions
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg"  height = 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.jpg"  height = 250 ></td>
     <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.jpg"  height = 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.jpg"  height = 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg"  height = 250 ></td>
   </tr>
 </table>
 
