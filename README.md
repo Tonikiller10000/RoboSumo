@@ -15,25 +15,24 @@ It uses:
 
 <table>
   <tr>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z3.png"  height = 220 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z1.png"  height = 220 width= 250 ></td>
-    <td><img src="https://github.com/Tonikiller10000/LineFollower/blob/main/LineFollower_Pictures/z2.png"  height = 220 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png"  height = 220 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p2.png"  height = 220 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png"  height = 220 width= 250 ></td>
   </tr>
 </table>
 
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p1.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p2.png" >
+Schematic:
 <img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p3.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/p5.png" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.jpg" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.jpg" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r3.jpg" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg" >
-<img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r5.jpg" >
 
 
-
-
+## Model inspiration 
+<table>
+  <tr>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r1.jpg"  height = 220 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r2.jpg"  height = 220 width= 250 ></td>
+    <td><img src="https://github.com/Tonikiller10000/RoboSumo/blob/main/PozeRoboSumo/r4.jpg"  height = 220 width= 250 ></td>
+  </tr>
+</table>
 
 
 
