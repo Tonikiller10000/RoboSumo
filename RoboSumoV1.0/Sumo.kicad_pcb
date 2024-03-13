@@ -1126,6 +1126,11 @@
       (net 17 "RX") (pinfunction "TX/PD1") (pintype "bidirectional") (tstamp 84589fac-8630-4e78-ab2a-8371239999ca))
     (pad "32" smd rect (at -2.799999 -4.2672 90) (size 0.508 1.4224) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 35 "D2") (pinfunction "PD2") (pintype "bidirectional") (tstamp fdd8907e-5153-4b14-91e6-4f4fe8e6054d))
+    (model "${KICAD7_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-32_7x7mm_P0.8mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical" (layer "F.Cu")
